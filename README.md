@@ -68,7 +68,7 @@ Tally Prime | QuickBooks | MS Office Suite
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href=""C:\Users\rajam\Downloads\Resume\M_Raja_Resume.pdf"">Download my CV</a></td>
+      <td><a href=""https://rajamadhu0303-alt.github.io/Raja_portfoilo/"">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
