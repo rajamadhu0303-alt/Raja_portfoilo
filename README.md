@@ -21,14 +21,14 @@ The Institute of Accountants & Book-Keepers (2023 – 2024)
 📊 Built an interactive dashboard for sales performance tracking & pipeline management.
 ⚡ Applied DAX calculations to measure KPIs and automate reporting (reduced manual work by 40%).
 📈 Designed data models and calculated columns for trend & performance analysis.
-(Screenshot 2025-07-28 143458.png)[Dashboard]
+
 
 🔹 Email Marketing Analytics Dashboard – [Power BI | Rows & Columns]
 
 📩 Developed a comprehensive dashboard to analyze email campaign performance (CTR, bounce, unsubscribe, conversions).
 🎯 Identified top-performing campaigns & customer segments using interactive filters.
 🌍 Conducted geographic engagement analysis to optimize campaign strategies.
-(Screenshot 2025-08-18 191601.png)[Dashboard]
+[Dashboard](Screenshot 2025-08-18 191601.png)
 
 ## Certifications
 
