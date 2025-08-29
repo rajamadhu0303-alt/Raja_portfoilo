@@ -22,7 +22,7 @@ The Institute of Accountants & Book-Keepers (2023 – 2024)
 ⚡ Applied DAX calculations to measure KPIs and automate reporting (reduced manual work by 40%).
 📈 Designed data models and calculated columns for trend & performance analysis.
 
-![image](Screenshot 2025-07-28 143458.png)
+![Alt text](Screenshot 2025-07-28 143458.png)
 
 
 🔹 Email Marketing Analytics Dashboard – [Power BI | Rows & Columns]
